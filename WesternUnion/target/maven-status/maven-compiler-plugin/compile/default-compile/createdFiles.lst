@@ -1,0 +1,15 @@
+de\ilume\western\union\extractor\printer\CsvPrinter.class
+de\ilume\western\union\extractor\util\LoggerUtil.class
+de\ilume\western\union\extractor\extractor\IDetailExtractor.class
+de\ilume\western\union\extractor\extractor\SearchResultExtractor.class
+de\ilume\western\union\extractor\data\PrincipalData.class
+de\ilume\western\union\extractor\extractor\DetailExtractor$1.class
+de\ilume\western\union\extractor\FcaExtractor.class
+de\ilume\western\union\extractor\data\FailedDataHandler.class
+de\ilume\western\union\extractor\util\XmlUtil.class
+de\ilume\western\union\extractor\printer\IPrinter.class
+de\ilume\western\union\extractor\extractor\DetailExtractor.class
+de\ilume\western\union\extractor\data\AddressData.class
+de\ilume\western\union\constants\Constants.class
+de\ilume\western\union\extractor\config\Configuration.class
+de\ilume\western\union\extractor\PRAAdressDetailsExtractor.class
